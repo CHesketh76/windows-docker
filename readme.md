@@ -4,6 +4,8 @@
 </div>
 <div align="center">
 
+omarchy edit here:`~/.config/windows/docker-compose.yml`
+
 [![Build]][build_url]
 [![Version]][tag_url]
 [![Size]][tag_url]
